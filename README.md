@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bilalnrts
+- 👋 Hi, I’m Bilal
 - 👀 I’m interested in everything computer related.
-- 🌱 I’m currently learning C and Swift.
+- 🌱 I’m currently programming with C and learning Swift.
 - 📫 How to reach me ...
 
 <!---
