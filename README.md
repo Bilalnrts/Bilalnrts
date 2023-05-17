@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilal
 - 👀 I’m interested in everything computer related.
-- 🌱 I’m currently programming with C and learning Swift.
+- 🌱 I’m currently programming with C.
 - 📫 How to reach me ...
 
 <!---
